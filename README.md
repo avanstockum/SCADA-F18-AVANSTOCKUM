@@ -1,7 +1,6 @@
 ## Alyx Van Stockum 
 # SCADA-F18-AVANSTOCKUM
 
-
 # SCADA Lab Report
 
 **REPORT:** 
@@ -17,4 +16,22 @@ From my expereince the modbus labs were more educational and more closely relate
  **II. Methodologies** 
  
 The methodologies I used both successfully and unsuccessfully were the provided lab guidance, outside research, metasploit and python manuals, and the help of classmates. I found all of these resources to be incredibly helpful and I learned a lot from each resource. Without having had any experience with metasploit or even Python, these labs proved to be more time consuming than I originall anticipated. I really did enjoy working with metasploit's msf console to interface with modbus. It was an interesting learning experience and I am excited to practice more Python moving forward. From my understanding, metasplot will be a useful tool for the spring penetration testing course, which seems like it will be another unique learning experience. 
+
+I used several resources in addition to the provided guidance, listed below: 
+
+https://www.youtube.com/watch?v=tiFtnaCHOog
+
+https://www.youtube.com/watch?v=H2Y_Ij-kmZk
+
+https://www.youtube.com/watch?v=seaKHRZfdMM
+
+https://www.youtube.com/watch?v=H2Y_Ij-kmZk
+
+https://www.youtube.com/watch?v=rCa_U6YATTA&t=519s
+
+https://www.youtube.com/watch?v=KrrulcP_Eio&t=874s
+
+https://jojosjunkyard.wordpress.com/2009/12/25/logixpro-door-simulation-lab-utilizing-relaylogic/
+
+https://program-plc.blogspot.com/2015/07/lets-start-learning-logixpro-500-plc.html
 
